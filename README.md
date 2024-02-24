@@ -3,6 +3,8 @@
 
 I didn't see a nice portable ImGui and CMake crossover so decided to make one and maybe someone will use it.
 
+**This was made in CLion so if you encounter any problems with building or etc i recommend to use CLion to resolve issues**
+
 # Prerequisites
 - cmake version atleast 3.29.0
 - (Ninja) / (Visual Studio 20XX)
