@@ -38,6 +38,7 @@ ninja
 - If you run into an issue like program could not start correctly build like this:
 - feel free to change target build path instead of ```build``` you can change it to ```out``` and so on.
 - ```keep in mind to run this build command in the same dir as CMakeLists.txt```
+- 
   ```bash
   cmake --build ./build --target ImGui-CMake -j 6
   ```
