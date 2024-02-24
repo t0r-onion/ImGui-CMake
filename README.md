@@ -35,7 +35,7 @@ cmake -G Ninja ..
 ninja
 ```
 
-- If you run in an issue like program could not start correctly build like this:
+- If you run into an issue like program could not start correctly build like this:
 - feel free to change target build path instead of ```out``` you can change it to ```build``` and so on.
   ```bash
   cmake --build out --target ImGui-CMake -j 6
